@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的应用</string>
+    <string name="Quantity">数量：</string>
+    <string name="addChocolate">是否添加巧克力？</string>
+    <string name="chocolate">巧克力</string>
+    <string name="whippedCream">发泡鲜奶油</string>
+    <string name="addWhippedCream">是否添加发泡鲜奶油？</string>
+    <string name="clientName">姓名：%1$s</string>
+    <string name="hint">姓名</string>
+    <string name="order">下单</string>
+    <string name="price">价格</string>
+    <string name="quantity">数量</string>
+    <string name="thankYou">多谢惠顾！</string>
+    <string name="toppings">配料</string>
+    <string name="total">价格：￥</string>
+</resources>
